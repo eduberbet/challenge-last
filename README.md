@@ -1,11 +1,6 @@
-<img align=left src="https://i.imgur.com/obfZlgE.png" height=150 alt="badge-challenge">
-
-<h2 align=center>Challenge ONE Back End Java + Spring</h2>
-
-<div align=center>
-
+<img align=center src="https://i.imgur.com/obfZlgE.png" height=150 alt="badge-challenge">
+<h2 align=left>Challenge ONE Back End Java + Spring</h2>
 <img height="80" margin="10" src="https://i.imgur.com/9Gq6RS0.png">
-</div>
 
 ## Projeto 
 
